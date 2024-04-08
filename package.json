@@ -10,8 +10,5 @@
 
   },
   "author": "",
-  "license": "ISC",
-  "dependencies": {
-    "cors": "^2.8.5"
-  }
+  "license": "ISC"
 }
