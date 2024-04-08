@@ -52,6 +52,8 @@ app.get('*', (req, res) => {
     res.sendFile(path.join(__dirname, './index.html'));
   });
 
+  //
+
 //start app at localhost:3001
 app.listen(3001, () => {
     console.log('Server started at http://localhost:3001');
